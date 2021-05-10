@@ -1,7 +1,7 @@
 # Python coding guidelines
 
 Python coding standards are used not only to increse the readability of the code but also for cleaniness of the code.
-PEP 8 coding guidelines should be followed in 
+PEP 8 coding guidelines should be followed while writing the python code.
 Here are few coding guidelines that needs to be followed while writing the python code - 
 
 1. Naming conventions - 
